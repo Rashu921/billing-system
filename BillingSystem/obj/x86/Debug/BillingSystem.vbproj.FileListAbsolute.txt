@@ -1,0 +1,17 @@
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\bin\Debug\BillingSystem.xml
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\obj\x86\Debug\BillingSystem.Customer.resources
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\obj\x86\Debug\BillingSystem.Dash.resources
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\obj\x86\Debug\BillingSystem.Form1.resources
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\obj\x86\Debug\BillingSystem.Login.resources
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\obj\x86\Debug\BillingSystem.Resources.resources
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\obj\x86\Debug\BillingSystem.Order.resources
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\obj\x86\Debug\BillingSystem.Pay.resources
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\obj\x86\Debug\BillingSystem.vbproj.GenerateResource.Cache
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\obj\x86\Debug\BillingSystem.exe
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\obj\x86\Debug\BillingSystem.xml
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\obj\x86\Debug\BillingSystem.pdb
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\obj\x86\Debug\BillingSystem.Cal.resources
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\bin\Debug\dbrad.mdb
+C:\Users\LAP MART\Desktop\RAD\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config

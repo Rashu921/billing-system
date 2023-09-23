@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{733FD84B-C827-42A7-A093-F6C73CA55BB3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>BillingSystem.My.MyApplication</StartupObject>
+    <RootNamespace>BillingSystem</RootNamespace>
+    <AssemblyName>BillingSystem</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>BillingSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>BillingSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cal.Designer.vb">
+      <DependentUpon>Cal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer.Designer.vb">
+      <DependentUpon>Customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dash.Designer.vb">
+      <DependentUpon>Dash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Order.Designer.vb">
+      <DependentUpon>Order.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pay.Designer.vb">
+      <DependentUpon>Pay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Cal.resx">
+      <DependentUpon>Cal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer.resx">
+      <DependentUpon>Customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dash.resx">
+      <DependentUpon>Dash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order.resx">
+      <DependentUpon>Order.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pay.resx">
+      <DependentUpon>Pay.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dbrad.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\Gourmet Black And White Sketch Blackboard Drawing Background3.jpg" />
+    <None Include="Resources\3f483410b8f2f1eb486efa7142deefc3 %281%293.jpg" />
+    <None Include="Resources\c30653195cb20add14a3b65d875bb37d1.jpg" />
+    <None Include="Resources\3f483410b8f2f1eb486efa7142deefc3 %281%292.jpg" />
+    <None Include="Resources\3f483410b8f2f1eb486efa7142deefc3 %281%291.jpg" />
+    <None Include="Resources\Gourmet Black And White Sketch Blackboard Drawing Background2.jpg" />
+    <None Include="Resources\3f483410b8f2f1eb486efa7142deefc3 %281%29.jpg" />
+    <None Include="Resources\c30653195cb20add14a3b65d875bb37d.jpg" />
+    <None Include="Resources\Gourmet Black And White Sketch Blackboard Drawing Background1.jpg" />
+    <None Include="Resources\Gourmet Black And White Sketch Blackboard Drawing Background.jpg" />
+    <None Include="Resources\Gourmet Hand Painted Menu Recipes Baked Baguette Bread Cake Poster Background.jpg" />
+    <None Include="Resources\Senior Restaurant Steak Couple Dating H5 Background Material5.jpg" />
+    <None Include="Resources\Senior Restaurant Steak Couple Dating H5 Background Material4.jpg" />
+    <None Include="Resources\Senior Restaurant Steak Couple Dating H5 Background Material3.jpg" />
+    <None Include="Resources\Senior Restaurant Steak Couple Dating H5 Background Material2.jpg" />
+    <None Include="Resources\Senior Restaurant Steak Couple Dating H5 Background Material1.jpg" />
+    <None Include="Resources\pngtree-simple-and-soft-cute-memphis-background-picture-image_933581.jpg" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\Vector Simple Flat Snack Restaurant Food1.jpg" />
+    <None Include="Resources\Vector Simple Flat Snack Restaurant Food.jpg" />
+    <None Include="Resources\Senior Restaurant Steak Couple Dating H5 Background Material.jpg" />
+    <None Include="Resources\istockphoto-1322346877-170667a.jpg" />
+    <None Include="Resources\png-clipart-computer-icons-google-account-icon-design-login-others-miscellaneous-desktop-wallpaper.png" />
+    <None Include="Resources\d01dfa8621f83289155a3be0970fb0cb.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

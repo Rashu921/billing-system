@@ -1,0 +1,120 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BillingSystem
+</name>
+</assembly>
+<members>
+<member name="P:BillingSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources._3f483410b8f2f1eb486efa7142deefc3__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources._3f483410b8f2f1eb486efa7142deefc3__1_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources._3f483410b8f2f1eb486efa7142deefc3__1_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources._3f483410b8f2f1eb486efa7142deefc3__1_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.c30653195cb20add14a3b65d875bb37d">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.c30653195cb20add14a3b65d875bb37d1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.d01dfa8621f83289155a3be0970fb0cb">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.Gourmet_Black_And_White_Sketch_Blackboard_Drawing_Background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.Gourmet_Black_And_White_Sketch_Blackboard_Drawing_Background1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.Gourmet_Black_And_White_Sketch_Blackboard_Drawing_Background2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.Gourmet_Black_And_White_Sketch_Blackboard_Drawing_Background3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.Gourmet_Hand_Painted_Menu_Recipes_Baked_Baguette_Bread_Cake_Poster_Background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.istockphoto_1322346877_170667a">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.png_clipart_computer_icons_google_account_icon_design_login_others_miscellaneous_desktop_wallpaper">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.pngtree_simple_and_soft_cute_memphis_background_picture_image_933581">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.Senior_Restaurant_Steak_Couple_Dating_H5_Background_Material">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.Senior_Restaurant_Steak_Couple_Dating_H5_Background_Material1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.Senior_Restaurant_Steak_Couple_Dating_H5_Background_Material2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.Senior_Restaurant_Steak_Couple_Dating_H5_Background_Material3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.Senior_Restaurant_Steak_Couple_Dating_H5_Background_Material4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.Senior_Restaurant_Steak_Couple_Dating_H5_Background_Material5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.Vector_Simple_Flat_Snack_Restaurant_Food">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BillingSystem.My.Resources.Resources.Vector_Simple_Flat_Snack_Restaurant_Food1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:BillingSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
